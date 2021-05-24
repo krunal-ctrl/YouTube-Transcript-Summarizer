@@ -8,5 +8,4 @@ Enormous number of video recordings are being created and shared on the Internet
 <img src="YOUTUBE_TRANSCRIPT_MODULE.png">
 
 ## Applications
-* Meetings and video-conferencing - A system that could turn voice to text and generate summaries from your team meetings.
-* Patent research - A summarizer to extract the most salient claims across patents.
+
